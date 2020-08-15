@@ -1,6 +1,6 @@
-package com.allanimt.springboot.studentapi.dao;
+package com.allanimt.springboot.employeeapi.dao;
 
-import com.allanimt.springboot.studentapi.entity.Employee;
+import com.allanimt.springboot.employeeapi.entity.Employee;
 
 import java.util.Collection;
 

@@ -1,7 +1,7 @@
-package com.allanimt.springboot.studentapi.controller;
+package com.allanimt.springboot.employeeapi.controller;
 
-import com.allanimt.springboot.studentapi.entity.Employee;
-import com.allanimt.springboot.studentapi.service.EmployeeService;
+import com.allanimt.springboot.employeeapi.entity.Employee;
+import com.allanimt.springboot.employeeapi.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

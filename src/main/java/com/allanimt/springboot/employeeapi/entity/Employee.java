@@ -1,4 +1,4 @@
-package com.allanimt.springboot.studentapi.entity;
+package com.allanimt.springboot.employeeapi.entity;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

@@ -1,12 +1,8 @@
-package com.allanimt.springboot.studentapi.service;
+package com.allanimt.springboot.employeeapi.service;
 
-import com.allanimt.springboot.studentapi.dao.EmployeeDAO;
-import com.allanimt.springboot.studentapi.dao.EmployeeRepository;
-import com.allanimt.springboot.studentapi.dao.FakeEmployeeDAOImplementation;
-import com.allanimt.springboot.studentapi.dao.MongoEmployeeDAOImplementation;
-import com.allanimt.springboot.studentapi.entity.Employee;
+import com.allanimt.springboot.employeeapi.dao.MongoEmployeeDAOImplementation;
+import com.allanimt.springboot.employeeapi.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
 import java.util.Collection;

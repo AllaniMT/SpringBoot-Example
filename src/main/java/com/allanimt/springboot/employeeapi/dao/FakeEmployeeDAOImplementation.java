@@ -1,8 +1,6 @@
-package com.allanimt.springboot.studentapi.dao;
+package com.allanimt.springboot.employeeapi.dao;
 
-import com.allanimt.springboot.studentapi.entity.Employee;
-import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Repository;
+import com.allanimt.springboot.employeeapi.entity.Employee;
 
 import java.util.Collection;
 import java.util.HashMap;
